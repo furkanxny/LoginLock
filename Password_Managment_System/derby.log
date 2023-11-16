@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Thu Nov 16 18:44:38 EST 2023D001 : [0] The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046), [1] a816c00e-018b-da85-b8d1-00000700f270, [2] /Users/ozen/NetBeansProjects/Passwords/Password_Managment_System/AccountDB, [3] jdk.internal.loader.ClassLoaders$AppClassLoader@f6f4d33, [4] file:/Users/ozen/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=20.0.2+9
+user.dir=/Users/ozen/NetBeansProjects/Passwords/Password_Managment_System
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.1
+derby.system.home=null
+C005 : [0] 
